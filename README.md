@@ -17,11 +17,9 @@
 
 ---
 
-### 🛠️  Build & Deploy
+### 🧰  My Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,fastapi,docker,git,vscode,figma,postman" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,tableau,excel" />
+  <img src="https://skillicons.dev/icons?i=python,excel,tableau,figma,vscode,github,git,notion" />
 </div>
 
 ---
