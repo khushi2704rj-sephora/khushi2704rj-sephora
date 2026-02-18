@@ -19,7 +19,7 @@
 
 ### 🧰  My Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,tableau,figma,vscode,github,git,notion" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi,excel,n8n,github,openai" />
 </div>
 
 ---
