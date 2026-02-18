@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Full+Stack+Dev+Learner;Strategic+Analyst;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Data+%26+Business+Analytics;Marketing+%26+HR+Strategy;Generative+AI+Enthusiast;Strategic+Thinker" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,9 +37,13 @@
 
 ---
 
-### 🐍  Contribution Graph
+### 🏆  Achievements & Activity
 <div align="center">
-  <img src="https://github.com/khushi2704rj-sephora/khushi2704rj-sephora/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khushi2704rj-sephora&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2704rj-sephora&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
