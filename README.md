@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Data+%26+Business+Analytics;Marketing+%26+HR+Strategy;Generative+AI+Enthusiast;Strategic+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+%26+Business+Analytics;Marketing+%26+HR+Strategy;Generative+AI+Enthusiast;Strategic+Thinker" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/khushi2704rj-sephora">
-    <img src="https://github-readme-stats.vercel.app/api?username=khushi2704rj-sephora&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=khushi2704rj-sephora&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/khushi2704rj-sephora">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi2704rj-sephora&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi2704rj-sephora&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
@@ -37,10 +37,6 @@
 
 ### 🏆  Achievements & Activity
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushi2704rj-sephora&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2704rj-sephora&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
