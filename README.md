@@ -2,7 +2,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Khushi!
 </h1>
 
-<h3 align="center">Data & Business Analytics · Marketing Strategy · Gen AI Enthusiast</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+%26+Technology+%F0%9F%8C%89" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+%26+Technology+%F0%9F%8C%89" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+%26+Technology+%F0%9F%8C%89" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="mailto:khushi2704.ak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -196,6 +202,13 @@ fun_fact: "I once modeled the AOL-Time Warner merger as a game theory problem"
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushi2704rj-sephora&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+---
 
 <p align="center">
   <i>✨ Open to collaborations on data science, analytics, and AI projects — feel free to reach out!</i>
