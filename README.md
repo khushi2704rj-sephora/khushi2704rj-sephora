@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+%26+Technology+%F0%9F%8C%89" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+%26+Technology+%F0%9F%8C%89" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+%26+Technology+%F0%9F%8C%89" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+and+Technology+%F0%9F%8C%89" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+and+Technology+%F0%9F%8C%89" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Bridging+Business+and+Technology+%F0%9F%8C%89" />
   </picture>
 </p>
 
