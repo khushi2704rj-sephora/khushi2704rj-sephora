@@ -196,13 +196,6 @@ fun_fact: "I once modeled the AOL-Time Warner merger as a game theory problem"
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushi2704rj-sephora&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
-
----
 
 <p align="center">
   <i>✨ Open to collaborations on data science, analytics, and AI projects — feel free to reach out!</i>
