@@ -160,7 +160,7 @@ fun_fact: "I once modeled the AOL-Time Warner merger as a game theory problem"
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Warwick Analytics Terminal</h3>
+      <h3 align="center">⚡ Nexus Equity Terminal</h3>
       <p align="center">
         <a href="https://github.com/khushi2704rj-sephora/eq-analytics-terminal">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
