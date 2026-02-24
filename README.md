@@ -160,16 +160,17 @@ fun_fact: "I once modeled the AOL-Time Warner merger as a game theory problem"
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📉 AOL–Time Warner Merger Analysis</h3>
+      <h3 align="center">⚡ Warwick Analytics Terminal</h3>
       <p align="center">
-        <a href="https://github.com/khushi2704rj-sephora/aol-time-warner-merger-analysis">
+        <a href="https://github.com/khushi2704rj-sephora/eq-analytics-terminal">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Strategic post-mortem of the <b>$165B merger</b> — accounting analysis, goodwill impact, EPS effects, and investment decision framework.</p>
+      <p>Enterprise quantitative trading platform. Dynamic <b>RAG pipeline</b> parsing SEC filings into FAISS, structured via <b>Llama-3.1</b>, paired with macroeconomic stress-testing and DCF modeling.</p>
       <p>
-        <img src="https://img.shields.io/badge/M%26A-red?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Strategy-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
       </p>
     </td>
   </tr>
